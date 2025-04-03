@@ -1,8 +1,11 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS 
+
 import random
 import os
 
 app = Flask(__name__)
+CORS(app)
 
 # Sample players
 players = {
@@ -79,14 +82,19 @@ def simulate_game():
     team1 = Team("Team 1")
     team2 = Team("Team 2")
     
+    # Simulate the game for both teams
     for team in [team1, team2]:
+        # Update runs for each batsman
         for player in team.batsmen:
             player.update_runs(random.randint(0, 100))
+        # Update wickets for each bowler
         for player in team.bowlers:
             player.update_wickets(random.randint(0, 5))
+        # Update team points based on the players' performance
         team.update_points()
     
-    return jsonify({
+    # Prepare the response data
+    response_data = {
         "team1": {
             "total_points": team1.total_points
         },
@@ -94,7 +102,13 @@ def simulate_game():
             "total_points": team2.total_points
         },
         "difference": abs(team1.total_points - team2.total_points)
-    })
+    }
+
+    # Print the response data to the console
+    print("Response Data:", response_data)
+
+    # Return the response as JSON
+    return jsonify(response_data)
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))  # Use Render's default port
