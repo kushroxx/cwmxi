@@ -7,7 +7,7 @@ import os
 import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "https://cwmxi-frontend-cynf.vercel.app"}}, supports_credentials=True)
+CORS(app)
 
 
 # Sample players
@@ -139,29 +139,26 @@ def todays_match():
     else:
         return jsonify({"message": "No match scheduled for today"}), 404
 
-@app.route('/get_team_squad', methods=['POST'])
+@app.route('/get_team_squad', methods=['GET'])
 def get_team_squad():
-    # Get the squad name from the POST request
+    # Get squad_name from the URL query parameters
+    squad_name = request.args.get("squad_name")
 
-    print("Incoming squad request:", request.headers)
-
-    data = request.get_json()  # Parse the incoming JSON request
-    squad_name = data.get("squad_name")  # Extract the squad name
+    print("Incoming GET squad request:", request.headers)
+    print(f"Requested Squad: {squad_name}")
 
     squad_info = teams_info['teamsInfo']
-
     squad_players = []
+
     for squad in squad_info:
         if squad['teamName'] == squad_name:
             squad_players = squad['players']
 
-    print(f'Squad Players {squad_players}')
+    print(f'Squad Players: {squad_players}')
 
     if squad_players:
-        # Return the squad details for the requested team
         return jsonify({"team_name": squad_name, "squad": squad_players}), 200
     else:
-        # If team is not found, return an error message
         return jsonify({"error": "Team not found"}), 404
 
 if __name__ == "__main__":
