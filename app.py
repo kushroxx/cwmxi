@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from flask_cors import CORS 
+from flask_cors import CORS, cross_origin
 from datetime import datetime
 
 import random
@@ -7,8 +7,7 @@ import os
 import json
 
 app = Flask(__name__)
-CORS(app)
-
+CORS(app, resources={r"/*": {"origins": ["https://cwmxi-frontend-cynf.vercel.app"]}})
 
 # Sample players
 players = {
@@ -140,6 +139,7 @@ def todays_match():
         return jsonify({"message": "No match scheduled for today"}), 404
 
 @app.route('/get_team_squad', methods=['GET'])
+@cross_origin(origins=["https://cwmxi-frontend-cynf.vercel.app"])
 def get_team_squad():
     # Get squad_name from the URL query parameters
     squad_name = request.args.get("squad_name")
