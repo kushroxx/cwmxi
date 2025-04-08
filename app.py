@@ -7,7 +7,8 @@ import os
 import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["https://cwmxi-frontend-cynf.vercel.app"]}})
+CORS(app, resources={r"/*": {"origins": "https://cwmxi-frontend-cynf.vercel.app"}}, supports_credentials=True)
+
 
 # Sample players
 players = {
@@ -141,6 +142,9 @@ def todays_match():
 @app.route('/get_team_squad', methods=['POST'])
 def get_team_squad():
     # Get the squad name from the POST request
+
+    print("Incoming squad request:", request.headers)
+
     data = request.get_json()  # Parse the incoming JSON request
     squad_name = data.get("squad_name")  # Extract the squad name
 
