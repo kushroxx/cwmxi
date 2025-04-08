@@ -7,7 +7,7 @@ import os
 import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["https://cwmxi-frontend-cynf.vercel.app"]}})
+CORS(app)
 
 # Sample players
 players = {
