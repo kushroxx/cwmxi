@@ -1,0 +1,68 @@
+{
+  "player1_name": "ABP",
+  "player2_name": "SRK",
+  "player1_team": [
+    {
+      "name": "Prabhsimran Singh",
+      "role": "Batsman",
+      "team": "Kings XI Punjab"
+    },
+    {
+      "name": "Devon Conway",
+      "role": "Batsman",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "role": "Batsman",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "name": "Noor Ahmad",
+      "role": "Bowler",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "name": "Arshdeep Singh",
+      "role": "Bowler",
+      "team": "Kings XI Punjab"
+    },
+    {
+      "name": "Matheesha Pathirana",
+      "role": "Bowler",
+      "team": "Chennai Super Kings"
+    }
+  ],
+  "player2_team": [
+    {
+      "name": "Shreyas Iyer",
+      "role": "Batsman",
+      "team": "Kings XI Punjab"
+    },
+    {
+      "name": "Rachin Ravindra",
+      "role": "Batsman",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "name": "Nehal Wadhera",
+      "role": "Batsman",
+      "team": "Kings XI Punjab"
+    },
+    {
+      "name": "Khaleel Ahmed",
+      "role": "Bowler",
+      "team": "Chennai Super Kings"
+    },
+    {
+      "name": "Lockie Ferguson",
+      "role": "Bowler",
+      "team": "Kings XI Punjab"
+    },
+    {
+      "name": "Marco Jansen",
+      "role": "Bowler",
+      "team": "Kings XI Punjab"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "player1_name": "ABP",
+    "player2_name": "SRK",
+    "player1_team": [
+      {
+        "name": "Shubman Gill",
+        "role": "Batsman",
+        "team": "Gujarat Titans"
+      },
+      {
+        "name": "JC Buttler",
+        "role": "Batsman",
+        "team": "Gujarat Titans"
+      },
+      {
+        "name": "N Rana",
+        "role": "Batsman",
+        "team": "Rajasthan Royals"
+      },
+      {
+        "name": "Fazalhaq Farooqi",
+        "role": "Bowler",
+        "team": "Rajasthan Royals"
+      },
+      {
+        "name": "JC Archer",
+        "role": "Bowler",
+        "team": "Rajasthan Royals"
+      },
+      {
+        "name": "M Theekshana",
+        "role": "Bowler",
+        "team": "Rajasthan Royals"
+      }
+    ],
+    "player2_team": [
+      {
+        "name": "SV Samson",
+        "role": "Batsman",
+        "team": "Rajasthan Royals"
+      },
+      {
+        "name": "B Sai Sudharsan",
+        "role": "Batsman",
+        "team": "Gujarat Titans"
+      },
+      {
+        "name": "YBK Jaiswal",
+        "role": "Batsman",
+        "team": "Rajasthan Royals"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "role": "Bowler",
+        "team": "Gujarat Titans"
+      },
+      {
+        "name": "R Sai Kishore",
+        "role": "Bowler",
+        "team": "Gujarat Titans"
+      },
+      {
+        "name": "Sandeep Sharma",
+        "role": "Bowler",
+        "team": "Rajasthan Royals"
+      }
+    ]
+  }

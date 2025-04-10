@@ -1,0 +1,68 @@
+{
+  "player1_name": "ABP",
+  "player2_name": "SRK",
+  "player1_team": [
+    {
+      "name": "Suryakumar Yadav",
+      "role": "Batsman",
+      "team": "Mumbai Indians"
+    },
+    {
+      "name": "Phil Salt",
+      "role": "Batsman",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "Rajat Patidar",
+      "role": "Batsman",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "Josh Hazlewood",
+      "role": "Bowler",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "Vignesh Puthur",
+      "role": "Bowler",
+      "team": "Mumbai Indians"
+    },
+    {
+      "name": "Mitchell Santner",
+      "role": "Bowler",
+      "team": "Mumbai Indians"
+    }
+  ],
+  "player2_team": [
+    {
+      "name": "Virat Kohli",
+      "role": "Batsman",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "Ryan Rickelton",
+      "role": "Batsman",
+      "team": "Mumbai Indians"
+    },
+    {
+      "name": "Tilak Varma",
+      "role": "Batsman",
+      "team": "Mumbai Indians"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "role": "Bowler",
+      "team": "Mumbai Indians"
+    },
+    {
+      "name": "Hardik Pandya",
+      "role": "Bowler",
+      "team": "Mumbai Indians"
+    },
+    {
+      "name": "Yash Dayal",
+      "role": "Bowler",
+      "team": "Royal Challengers Bengaluru"
+    }
+  ]
+}

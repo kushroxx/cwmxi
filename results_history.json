@@ -1,0 +1,58 @@
+{
+    "17193": {
+        "players": [
+            [
+                "ABP",
+                800
+            ],
+            [
+                "SRK",
+                940
+            ]
+        ],
+        "match_desc": "Kings XI Punjab vs Chennai Super Kings",
+        "match_date": "2025-04-08"
+    },
+    "17190": {
+        "players": [
+            [
+                "ABP",
+                1990
+            ],
+            [
+                "SRK",
+                1970
+            ]
+        ],
+        "match_desc": "Lucknow Super Giants vs Kolkata Knight Riders",
+        "match_date": "2025-04-08"
+    },
+    "17194": {
+        "players": [
+            [
+                "ABP",
+                690
+            ],
+            [
+                "SRK",
+                1690
+            ]
+        ],
+        "match_desc": "Gujarat Titans vs Rajasthan Royals",
+        "match_date": "2025-04-09"
+    },
+    "17192": {
+        "players": [
+            [
+                "ABP",
+                1260
+            ],
+            [
+                "SRK",
+                1800
+            ]
+        ],
+        "match_desc": "Royal Challengers Bengaluru vs Mumbai Indians",
+        "match_date": "2025-04-07"
+    }
+}

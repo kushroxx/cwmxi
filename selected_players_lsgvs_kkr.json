@@ -1,0 +1,68 @@
+{
+  "player1_name": "ABP",
+  "player2_name": "SRK",
+  "player1_team": [
+    {
+      "name": "Nicholas Pooran",
+      "role": "Batsman",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "name": "Venkatesh Iyer",
+      "role": "Batsman",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "name": "Aiden Markram",
+      "role": "Batsman",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "name": "Varun Chakravarthy",
+      "role": "Bowler",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "name": "Avesh Khan",
+      "role": "Bowler",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "role": "Bowler",
+      "team": "Lucknow Super Giants"
+    }
+  ],
+  "player2_team": [
+    {
+      "name": "Mitchell Marsh",
+      "role": "Batsman",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "name": "Quinton de Kock",
+      "role": "Batsman",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "role": "Batsman",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "name": "Harshit Rana",
+      "role": "Bowler",
+      "team": "Kolkata Knight Riders"
+    },
+    {
+      "name": "Shardul Thakur",
+      "role": "Bowler",
+      "team": "Lucknow Super Giants"
+    },
+    {
+      "name": "Vaibhav Arora",
+      "role": "Bowler",
+      "team": "Kolkata Knight Riders"
+    }
+  ]
+}
