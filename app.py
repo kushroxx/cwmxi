@@ -4,6 +4,7 @@ from datetime import datetime, date
 
 from load_match import load_or_fetch, fetch_from_api
 from models.match import Match
+import pytz
 
 import random
 import os
@@ -193,7 +194,6 @@ def get_team_squad():
         "squad": squad,
         "team_logo": logo
     }), 200
-    
 
 @app.route("/get_points", methods=["GET"])
 def get_points():
@@ -282,17 +282,16 @@ if __name__ == "__main__":
     else:
         print("⚠️ No match found or API failed.")
 
-    #get current time 
-    current_time = datetime.now().strftime("%H:%M")
-    print("Current time:", current_time)
+    #get current time in IST
+    ist = pytz.timezone('Asia/Kolkata')
+    current_time_ist = datetime.now(ist).strftime("%H:%M")
+    print("Current time:", current_time_ist)
     print("Match time:", current_match.event_time)
-    if current_match.status == "Upcoming" and current_match.event_time < current_time:
-        print(" Refetching current_time")
+    if current_match.status == "Upcoming" and current_match.event_time < current_time_ist:
+        print(" Refetching Data")
         today = date.today().isoformat()
         match_data = fetch_from_api(today)
         current_match = Match(match_data['result'][0])
-
-
 
     port = int(os.environ.get("PORT", 10000))  # Use Render's default port
     app.run(host="0.0.0.0", port=port)
