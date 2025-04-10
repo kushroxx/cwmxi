@@ -204,10 +204,10 @@ def get_points():
 
         print("Selected players loaded:", selected_players)
 
-        # print(" Refetching data")
-        # today = date.today().isoformat()
-        # match_data = fetch_from_api(today)
-        # current_match = Match(match_data['result'][0])
+        print(" Refetching data")
+        today = date.today().isoformat()
+        match_data = fetch_from_api(today)
+        current_match = Match(match_data['result'][0])
 
         # Compute points using current match's scorecard
         result = get_player_points(selected_players, current_match.get_scorecard())
