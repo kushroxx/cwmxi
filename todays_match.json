@@ -12,20 +12,20 @@
       "away_team_key": "143",
       "event_service_home": "",
       "event_service_away": "",
-      "event_home_final_result": "72/2",
-      "event_away_final_result": "",
-      "event_home_rr": "11.43",
-      "event_away_rr": null,
-      "event_status": "In Progress",
-      "event_status_info": "DC chose to field.",
+      "event_home_final_result": "163/7",
+      "event_away_final_result": "169/4",
+      "event_home_rr": "8.15",
+      "event_away_rr": "9.66",
+      "event_status": "Finished",
+      "event_status_info": "DC won by 6 wickets (with 13 balls remaining)",
       "league_name": "Indian Premier League",
       "league_key": "745",
       "league_round": "",
       "league_season": "2025",
-      "event_live": "1",
+      "event_live": "0",
       "event_type": "T20",
       "event_toss": "Delhi Capitals, elected to bowl first",
-      "event_man_of_match": "",
+      "event_man_of_match": "KL Rahul",
       "event_stadium": "M Chinnaswamy Stadium, Bengaluru",
       "event_home_team_logo": "https://apiv2.api-cricket.com/logo/146_royal-challengers-bangalore.png",
       "event_away_team_logo": "https://apiv2.api-cricket.com/logo/143_delhi-capitals.png",
@@ -33,7 +33,7 @@
         "Royal Challengers Bengaluru 1 INN": [
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
-            "player": "PD Salt",
+            "player": "Phil Salt",
             "type": "Batsman",
             "status": "run out (Nigam/Rahul)",
             "R": "37",
@@ -49,23 +49,23 @@
           },
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
-            "player": "V Kohli",
+            "player": "Virat Kohli",
             "type": "Batsman",
-            "status": "not out",
-            "R": "21",
-            "B": "12",
+            "status": "c Starc b Nigam",
+            "R": "22",
+            "B": "14",
             "Min": "0",
             "4s": "1",
             "6s": "2",
             "O": null,
             "M": null,
             "W": null,
-            "SR": "175.00",
+            "SR": "157.14",
             "ER": null
           },
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
-            "player": "D Padikkal",
+            "player": "Devdutt Padikkal",
             "type": "Batsman",
             "status": "c Patel b Mukesh Kumar",
             "R": "1",
@@ -81,18 +81,146 @@
           },
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
-            "player": "RM Patidar",
+            "player": "Rajat Patidar",
             "type": "Batsman",
-            "status": "not out",
-            "R": "1",
-            "B": "3",
+            "status": "c Rahul b Kuldeep Yadav",
+            "R": "25",
+            "B": "23",
+            "Min": "0",
+            "4s": "1",
+            "6s": "1",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "108.69",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Liam Livingstone",
+            "type": "Batsman",
+            "status": "c AR Sharma b MM Sharma",
+            "R": "4",
+            "B": "6",
             "Min": "0",
             "4s": "0",
             "6s": "0",
             "O": null,
             "M": null,
             "W": null,
-            "SR": "33.33",
+            "SR": "66.66",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Jitesh Sharma",
+            "type": "Batsman",
+            "status": "c Rahul b Kuldeep Yadav",
+            "R": "3",
+            "B": "11",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "27.27",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Krunal Pandya",
+            "type": "Batsman",
+            "status": "c AR Sharma b Nigam",
+            "R": "18",
+            "B": "18",
+            "Min": "0",
+            "4s": "1",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "100.00",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Tim David",
+            "type": "Batsman",
+            "status": "not out",
+            "R": "37",
+            "B": "20",
+            "Min": "0",
+            "4s": "2",
+            "6s": "4",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "185.00",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Bhuvneshwar Kumar",
+            "type": "Batsman",
+            "status": "not out",
+            "R": "1",
+            "B": "4",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "25.00",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Josh Hazlewood",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Yash Dayal",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Suyash Sharma",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
             "ER": null
           },
           {
@@ -100,36 +228,84 @@
             "player": "Mitchell Starc",
             "type": "Bowler",
             "status": "",
-            "R": "32",
+            "R": "35",
             "B": null,
             "Min": null,
             "4s": null,
             "6s": null,
-            "O": "2.00",
+            "O": "3.00",
             "M": "0",
             "W": "0",
             "SR": null,
-            "ER": "16.00"
+            "ER": "11.66"
           },
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
             "player": "Axar Patel",
             "type": "Bowler",
             "status": "",
-            "R": "25",
+            "R": "52",
             "B": null,
             "Min": null,
             "4s": null,
             "6s": null,
-            "O": "2.00",
+            "O": "4.00",
             "M": "0",
             "W": "0",
             "SR": null,
-            "ER": "12.50"
+            "ER": "13.00"
           },
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
             "player": "Vipraj Nigam",
+            "type": "Bowler",
+            "status": "",
+            "R": "18",
+            "B": null,
+            "Min": null,
+            "4s": null,
+            "6s": null,
+            "O": "4.00",
+            "M": "0",
+            "W": "2",
+            "SR": null,
+            "ER": "4.50"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Mukesh Kumar",
+            "type": "Bowler",
+            "status": "",
+            "R": "26",
+            "B": null,
+            "Min": null,
+            "4s": null,
+            "6s": null,
+            "O": "3.00",
+            "M": "1",
+            "W": "1",
+            "SR": null,
+            "ER": "8.66"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Kuldeep Yadav",
+            "type": "Bowler",
+            "status": "",
+            "R": "17",
+            "B": null,
+            "Min": null,
+            "4s": null,
+            "6s": null,
+            "O": "4.00",
+            "M": "0",
+            "W": "2",
+            "SR": null,
+            "ER": "4.25"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "player": "Mohit Sharma",
             "type": "Bowler",
             "status": "",
             "R": "10",
@@ -137,402 +313,1318 @@
             "Min": null,
             "4s": null,
             "6s": null,
-            "O": "1.30",
+            "O": "2.00",
             "M": "0",
-            "W": "0",
+            "W": "1",
             "SR": null,
-            "ER": "6.66"
+            "ER": "5.00"
+          }
+        ],
+        "Delhi Capitals 2 INN": [
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Faf du Plessis",
+            "type": "Batsman",
+            "status": "c Patidar b Yash Dayal",
+            "R": "2",
+            "B": "7",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "28.57",
+            "ER": null
           },
           {
-            "innings": "Royal Challengers Bengaluru 1 INN",
-            "player": "Mukesh Kumar",
-            "type": "Bowler",
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Jake Fraser-McGurk",
+            "type": "Batsman",
+            "status": "c Sharma b Kumar",
+            "R": "7",
+            "B": "6",
+            "Min": "0",
+            "4s": "1",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "116.66",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Abishek Porel",
+            "type": "Batsman",
+            "status": "c Sharma b Kumar",
+            "R": "7",
+            "B": "7",
+            "Min": "0",
+            "4s": "1",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "100.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "KL Rahul",
+            "type": "Batsman",
+            "status": "not out",
+            "R": "93",
+            "B": "21",
+            "Min": "0",
+            "4s": "2",
+            "6s": "1",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "119.04",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Axar Patel",
+            "type": "Batsman",
+            "status": "c David b Suyash Sharma",
+            "R": "15",
+            "B": "11",
+            "Min": "0",
+            "4s": "2",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "136.36",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Tristan Stubbs",
+            "type": "Batsman",
             "status": "",
             "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Ashutosh Sharma",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Vipraj Nigam",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Mitchell Starc",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Kuldeep Yadav",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Mohit Sharma",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Mukesh Kumar",
+            "type": "Batsman",
+            "status": "",
+            "R": "0",
+            "B": "0",
+            "Min": "0",
+            "4s": "0",
+            "6s": "0",
+            "O": null,
+            "M": null,
+            "W": null,
+            "SR": "0.00",
+            "ER": null
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Bhuvneshwar Kumar",
+            "type": "Bowler",
+            "status": "",
+            "R": "14",
             "B": null,
             "Min": null,
             "4s": null,
             "6s": null,
-            "O": "1.00",
-            "M": "1",
+            "O": "3.00",
+            "M": "0",
+            "W": "2",
+            "SR": null,
+            "ER": "4.66"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Yash Dayal",
+            "type": "Bowler",
+            "status": "",
+            "R": "17",
+            "B": null,
+            "Min": null,
+            "4s": null,
+            "6s": null,
+            "O": "2.00",
+            "M": "0",
             "W": "1",
             "SR": null,
-            "ER": "0.00"
+            "ER": "8.50"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Josh Hazlewood",
+            "type": "Bowler",
+            "status": "",
+            "R": "18",
+            "B": null,
+            "Min": null,
+            "4s": null,
+            "6s": null,
+            "O": "2.00",
+            "M": "0",
+            "W": "0",
+            "SR": null,
+            "ER": "9.00"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "player": "Suyash Sharma",
+            "type": "Bowler",
+            "status": "",
+            "R": "9",
+            "B": null,
+            "Min": null,
+            "4s": null,
+            "6s": null,
+            "O": "1.40",
+            "M": "0",
+            "W": "1",
+            "SR": null,
+            "ER": "5.40"
           }
         ]
       },
       "comments": {
-        "Live": [
+        "Delhi Capitals 2 INN": [
           {
-            "innings": "Live",
-            "balls": "1",
-            "overs": "1",
-            "ended": "No",
-            "runs": "1",
-            "post": "1"
-          },
-          {
-            "innings": "Live",
-            "balls": "7",
-            "overs": "7",
-            "ended": "No",
-            "runs": "7",
-            "post": "7"
-          },
-          {
-            "innings": "Live",
-            "balls": "5",
-            "overs": "5",
-            "ended": "No",
-            "runs": "5",
-            "post": "5"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "4",
-            "ended": "No",
-            "runs": "4",
-            "post": "4"
-          },
-          {
-            "innings": "Live",
-            "balls": "F",
-            "overs": "F",
-            "ended": "No",
-            "runs": "F",
-            "post": "F"
-          },
-          {
-            "innings": "Live",
-            "balls": "S",
-            "overs": "S",
-            "ended": "No",
-            "runs": "S",
-            "post": "S"
-          },
-          {
-            "innings": "Live",
-            "balls": "2",
-            "overs": "0.2",
-            "ended": "No",
-            "runs": "0",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "1",
-            "overs": "0.1",
-            "ended": "No",
-            "runs": "0",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
             "balls": "3",
-            "overs": "0.3",
+            "overs": "8.3",
             "ended": "No",
-            "runs": "0",
-            "post": "Starc to Salt"
+            "runs": "2",
+            "post": "Suyash Sharma to Axar Patel"
           },
           {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "0.3",
-            "ended": "No",
-            "runs": "1",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "5",
-            "overs": "0.4",
-            "ended": "No",
-            "runs": "1",
-            "post": "Starc to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "6",
-            "overs": "0.5",
-            "ended": "No",
-            "runs": "0",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "7",
-            "overs": "0.6",
-            "ended": "No",
-            "runs": "0",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "1",
-            "overs": "1.1",
-            "ended": "No",
-            "runs": "4",
-            "post": "Axar Patel to Kohli"
-          },
-          {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
             "balls": "2",
-            "overs": "1.2",
-            "ended": "No",
-            "runs": "0",
-            "post": "Axar Patel to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "3",
-            "overs": "1.3",
-            "ended": "No",
-            "runs": "1",
-            "post": "Axar Patel to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "1.4",
-            "ended": "No",
-            "runs": "6",
-            "post": "Axar Patel to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "5",
-            "overs": "1.5",
+            "overs": "8.2",
             "ended": "No",
             "runs": "4",
-            "post": "Axar Patel to Salt"
+            "post": "Suyash Sharma to Axar Patel"
           },
           {
-            "innings": "Live",
-            "balls": "6",
-            "overs": "1.6",
-            "ended": "Yes",
-            "runs": "1",
-            "post": "Axar Patel to Salt"
-          },
-          {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
             "balls": "1",
-            "overs": "2.1",
+            "overs": "8.1",
             "ended": "No",
-            "runs": "6",
-            "post": "Starc to Salt"
+            "runs": "0",
+            "post": "Suyash Sharma to Axar Patel"
           },
           {
-            "innings": "Live",
-            "balls": "2",
-            "overs": "2.2",
-            "ended": "No",
-            "runs": "4",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "3",
-            "overs": "2.3",
-            "ended": "No",
-            "runs": "4",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "2.4",
-            "ended": "No",
-            "runs": "4",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "2.4",
-            "ended": "No",
-            "runs": "4",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "5",
-            "overs": "2.4",
-            "ended": "No",
-            "runs": "6",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
             "balls": "6",
-            "overs": "2.5",
-            "ended": "No",
-            "runs": "0",
-            "post": "Starc to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "7",
-            "overs": "2.6",
-            "ended": "No",
-            "runs": "0",
-            "post": "Starc to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "1",
-            "overs": "3.1",
-            "ended": "No",
-            "runs": "0",
-            "post": "Axar Patel to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "3",
-            "overs": "3.3",
-            "ended": "No",
-            "runs": "6",
-            "post": "Axar Patel to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "2",
-            "overs": "3.2",
-            "ended": "No",
-            "runs": "1",
-            "post": "Axar Patel to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "3.4",
-            "ended": "No",
-            "runs": "1",
-            "post": "Axar Patel to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "5",
-            "overs": "3.5",
-            "ended": "No",
-            "runs": "0",
-            "post": "Axar Patel to Salt"
-          },
-          {
-            "innings": "Live",
-            "balls": "7",
-            "overs": "3.6",
-            "ended": "No",
-            "runs": "0",
-            "post": "Axar Patel to Padikkal"
-          },
-          {
-            "innings": "Live",
-            "balls": "6",
-            "overs": "3.6",
+            "overs": "7.6",
             "ended": "Yes",
             "runs": "0",
-            "post": "Axar Patel to Padikkal"
+            "post": "Hazlewood to Rahul"
           },
           {
-            "innings": "Live",
-            "balls": "1",
-            "overs": "4.1",
-            "ended": "No",
-            "runs": "1",
-            "post": "Nigam to Kohli"
-          },
-          {
-            "innings": "Live",
-            "balls": "3",
-            "overs": "4.3",
-            "ended": "No",
-            "runs": "0",
-            "post": "Nigam to Padikkal"
-          },
-          {
-            "innings": "Live",
-            "balls": "2",
-            "overs": "4.2",
-            "ended": "No",
-            "runs": "0",
-            "post": "Nigam to Padikkal"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "4.4",
-            "ended": "No",
-            "runs": "1",
-            "post": "Nigam to Padikkal"
-          },
-          {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
             "balls": "5",
-            "overs": "4.5",
+            "overs": "7.5",
             "ended": "No",
-            "runs": "0",
-            "post": "Nigam to Kohli"
+            "runs": "6",
+            "post": "Hazlewood to Rahul"
           },
           {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "7.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "7.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "7.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "7.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
             "balls": "6",
-            "overs": "4.6",
+            "overs": "6.6",
             "ended": "Yes",
-            "runs": "0",
-            "post": "Nigam to Kohli"
+            "runs": "1",
+            "post": "Suyash Sharma to Rahul"
           },
           {
-            "innings": "Live",
-            "balls": "1",
-            "overs": "5.1",
-            "ended": "No",
-            "runs": "0",
-            "post": "Mukesh Kumar to Padikkal"
-          },
-          {
-            "innings": "Live",
-            "balls": "2",
-            "overs": "5.2",
-            "ended": "No",
-            "runs": "0",
-            "post": "Mukesh Kumar to Padikkal"
-          },
-          {
-            "innings": "Live",
-            "balls": "3",
-            "overs": "5.3",
-            "ended": "No",
-            "runs": "0",
-            "post": "Mukesh Kumar to Padikkal"
-          },
-          {
-            "innings": "Live",
-            "balls": "4",
-            "overs": "5.4",
-            "ended": "No",
-            "runs": "0",
-            "post": "Mukesh Kumar to Padikkal"
-          },
-          {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
             "balls": "5",
-            "overs": "5.5",
+            "overs": "6.5",
             "ended": "No",
-            "runs": "0",
-            "post": "Mukesh Kumar to Patidar"
+            "runs": "2",
+            "post": "Suyash Sharma to Rahul"
           },
           {
-            "innings": "Live",
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "6.4",
+            "ended": "No",
+            "runs": "0",
+            "post": "Suyash Sharma to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "6.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Suyash Sharma to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "6.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Suyash Sharma to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "6.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Suyash Sharma to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
             "balls": "6",
             "overs": "5.6",
             "ended": "Yes",
             "runs": "0",
+            "post": "Hazlewood to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "5",
+            "overs": "5.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "5.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "5.3",
+            "ended": "No",
+            "runs": "4",
+            "post": "Hazlewood to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "5.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "5.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Hazlewood to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "6",
+            "overs": "4.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Bhuvneshwar to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "5",
+            "overs": "4.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "4.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Bhuvneshwar to Axar Patel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "4.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to Abishek Porel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "4.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to Abishek Porel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "7",
+            "overs": "3.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Yash Dayal to Abishek Porel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "6",
+            "overs": "3.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Yash Dayal to Abishek Porel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "5",
+            "overs": "3.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Yash Dayal to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "3.3",
+            "ended": "No",
+            "runs": "4",
+            "post": "Yash Dayal to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "3.2",
+            "ended": "No",
+            "runs": "2",
+            "post": "Yash Dayal to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "3.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Yash Dayal to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "3.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Yash Dayal to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "7",
+            "overs": "2.6",
+            "ended": "Yes",
+            "runs": "4",
+            "post": "Bhuvneshwar to Abishek Porel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "6",
+            "overs": "2.5",
+            "ended": "No",
+            "runs": "2",
+            "post": "Bhuvneshwar to Abishek Porel"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "5",
+            "overs": "2.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Bhuvneshwar to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "2.3",
+            "ended": "No",
+            "runs": "4",
+            "post": "Bhuvneshwar to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "2.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to Rahul"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "2.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Bhuvneshwar to J Fraser-McGurk"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "5",
+            "overs": "1.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Yash Dayal to du Plessis"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "1.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Yash Dayal to J Fraser-McGurk"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "1.3",
+            "ended": "No",
+            "runs": "2",
+            "post": "Yash Dayal to J Fraser-McGurk"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "1.2",
+            "ended": "No",
+            "runs": "4",
+            "post": "Yash Dayal to J Fraser-McGurk"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "1.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Yash Dayal to du Plessis"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "6",
+            "overs": "0.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Bhuvneshwar to J Fraser-McGurk"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "5",
+            "overs": "0.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to J Fraser-McGurk"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "4",
+            "overs": "0.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Bhuvneshwar to du Plessis"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "3",
+            "overs": "0.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to du Plessis"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "2",
+            "overs": "0.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to du Plessis"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "balls": "1",
+            "overs": "0.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Bhuvneshwar to du Plessis"
+          }
+        ],
+        "Royal Challengers Bengaluru 1 INN": [
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "9",
+            "overs": "19.6",
+            "ended": "Yes",
+            "runs": "4",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "8",
+            "overs": "19.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "19.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "7",
+            "overs": "19.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "19.4",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "19.3",
+            "ended": "No",
+            "runs": "6",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "19.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "19.1",
+            "ended": "No",
+            "runs": "6",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "19.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mukesh Kumar to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "18.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Axar Patel to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "18.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Axar Patel to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "18.4",
+            "ended": "No",
+            "runs": "6",
+            "post": "Axar Patel to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "18.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Axar Patel to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "18.2",
+            "ended": "No",
+            "runs": "4",
+            "post": "Axar Patel to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "18.1",
+            "ended": "No",
+            "runs": "6",
+            "post": "Axar Patel to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "17.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Nigam to Bhuvneshwar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "17.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "17.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to Bhuvneshwar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "17.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Bhuvneshwar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "17.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Bhuvneshwar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "16.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Kuldeep to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "16.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Kuldeep to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "16.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "16.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "16.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "16.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "15.6",
+            "ended": "Yes",
+            "runs": "2",
+            "post": "Nigam to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "15.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "15.4",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "15.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "15.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "15.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "14.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Kuldeep to David"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "14.4",
+            "ended": "No",
+            "runs": "0",
+            "post": "Kuldeep to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "14.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "14.2",
+            "ended": "No",
+            "runs": "4",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "14.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "13.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Mukesh Kumar to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "13.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "13.4",
+            "ended": "No",
+            "runs": "1",
             "post": "Mukesh Kumar to Patidar"
           },
           {
-            "innings": "Live",
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "13.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mukesh Kumar to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "13.2",
+            "ended": "No",
+            "runs": "2",
+            "post": "Mukesh Kumar to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "13.1",
+            "ended": "No",
+            "runs": "2",
+            "post": "Mukesh Kumar to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "12.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "12.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "12.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "12.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Kuldeep to Krunal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "12.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Kuldeep to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "11.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Mohit to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "11.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mohit to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "11.4",
+            "ended": "No",
+            "runs": "4",
+            "post": "Mohit to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "11.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mohit to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "11.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mohit to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "11.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mohit to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "10.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Starc to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "10.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Starc to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "10.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Starc to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "10.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Starc to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "10.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Starc to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "10.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Starc to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "9.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Mohit to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "9.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mohit to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "9.4",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mohit to Sharma"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "9.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mohit to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "9.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Mohit to Livingstone"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "8.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Kuldeep to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "8.5",
+            "ended": "No",
+            "runs": "2",
+            "post": "Kuldeep to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "8.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Livingstone"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "8.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Kuldeep to Livingstone"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "8.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "8.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Kuldeep to Livingstone"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "7.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Axar Patel to Livingstone"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "7.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Axar Patel to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "7.4",
+            "ended": "No",
+            "runs": "0",
+            "post": "Axar Patel to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "7.3",
+            "ended": "No",
+            "runs": "6",
+            "post": "Axar Patel to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "7.2",
+            "ended": "No",
+            "runs": "2",
+            "post": "Axar Patel to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "7.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Axar Patel to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "6.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "6.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "6.3",
+            "ended": "No",
+            "runs": "6",
+            "post": "Nigam to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
             "balls": "2",
             "overs": "6.2",
             "ended": "No",
@@ -540,7 +1632,7 @@
             "post": "Nigam to Patidar"
           },
           {
-            "innings": "Live",
+            "innings": "Royal Challengers Bengaluru 1 INN",
             "balls": "1",
             "overs": "6.1",
             "ended": "No",
@@ -548,30 +1640,383 @@
             "post": "Nigam to Kohli"
           },
           {
-            "innings": "Live",
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "5.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Mukesh Kumar to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "5.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to Patidar"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
             "balls": "3",
-            "overs": "6.3",
+            "overs": "5.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "5.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "5.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Mukesh Kumar to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "4.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Nigam to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "4.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "4.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "4.3",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "4.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Nigam to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "4.1",
+            "ended": "No",
+            "runs": "1",
+            "post": "Nigam to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "7",
+            "overs": "3.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Axar Patel to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "3.6",
+            "ended": "No",
+            "runs": "1",
+            "post": "Axar Patel to Padikkal"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "3.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Axar Patel to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "3.3",
             "ended": "No",
             "runs": "6",
-            "post": "Nigam to Kohli"
+            "post": "Axar Patel to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "3.2",
+            "ended": "No",
+            "runs": "1",
+            "post": "Axar Patel to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "3.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Axar Patel to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "7",
+            "overs": "2.6",
+            "ended": "Yes",
+            "runs": "4",
+            "post": "Starc to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "2.5",
+            "ended": "No",
+            "runs": "1",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "2.4",
+            "ended": "No",
+            "runs": "6",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "2.4",
+            "ended": "No",
+            "runs": "5",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "2.3",
+            "ended": "No",
+            "runs": "4",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "2.2",
+            "ended": "No",
+            "runs": "4",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "2.1",
+            "ended": "No",
+            "runs": "6",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "1.6",
+            "ended": "Yes",
+            "runs": "1",
+            "post": "Axar Patel to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "1.5",
+            "ended": "No",
+            "runs": "4",
+            "post": "Axar Patel to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "1.4",
+            "ended": "No",
+            "runs": "6",
+            "post": "Axar Patel to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "1.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Axar Patel to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "1.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Axar Patel to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "1.1",
+            "ended": "No",
+            "runs": "4",
+            "post": "Axar Patel to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "7",
+            "overs": "0.6",
+            "ended": "Yes",
+            "runs": "0",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "6",
+            "overs": "0.5",
+            "ended": "No",
+            "runs": "0",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "5",
+            "overs": "0.4",
+            "ended": "No",
+            "runs": "1",
+            "post": "Starc to Kohli"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "4",
+            "overs": "0.3",
+            "ended": "No",
+            "runs": "1",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "3",
+            "overs": "0.3",
+            "ended": "No",
+            "runs": "5",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "2",
+            "overs": "0.2",
+            "ended": "No",
+            "runs": "0",
+            "post": "Starc to Salt"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "balls": "1",
+            "overs": "0.1",
+            "ended": "No",
+            "runs": "0",
+            "post": "Starc to Salt"
           }
         ]
       },
       "wickets": {
+        "Delhi Capitals 2 INN": [
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "fall": "8.4 ov",
+            "balwer": "",
+            "batsman": "Axar Patel c David b Suyash Sharma 15 ",
+            "score": "58/4"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "fall": "4.3 ov",
+            "balwer": "",
+            "batsman": "Abishek Porel c \u2020Sharma b Kumar 7 ",
+            "score": "30/3"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "fall": "2.1 ov",
+            "balwer": "",
+            "batsman": "Jake Fraser-McGurk c \u2020Sharma b Kumar 7 ",
+            "score": "10/2"
+          },
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "fall": "1.6 ov",
+            "balwer": "",
+            "batsman": "Faf du Plessis c Patidar b Yash Dayal 2 ",
+            "score": "9/1"
+          }
+        ],
         "Royal Challengers Bengaluru 1 INN": [
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
-            "fall": "3.5 ov",
-            "balwer": "PD Salt",
-            "batsman": " run out ",
-            "score": "61/1"
+            "fall": "17.1 ov",
+            "balwer": "",
+            "batsman": "Krunal Pandya c Sharma b Nigam 18 ",
+            "score": "125/7"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "fall": "14.5 ov",
+            "balwer": "",
+            "batsman": "Rajat Patidar c \u2020Rahul b Kuldeep Yadav 25 ",
+            "score": "117/6"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "fall": "12.2 ov",
+            "balwer": "",
+            "batsman": "Jitesh Sharma c \u2020Rahul b Kuldeep Yadav 3 ",
+            "score": "102/5"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "fall": "9.3 ov",
+            "balwer": "",
+            "batsman": "Liam Livingstone c AR Sharma b MM Sharma 4 ",
+            "score": "91/4"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "fall": "6.6 ov",
+            "balwer": "",
+            "batsman": "Virat Kohli c Starc b Nigam 22 ",
+            "score": "74/3"
           },
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
             "fall": "5.4 ov",
-            "balwer": "D Padikkal",
-            "batsman": " c Patel b Mukesh Kumar 1 ",
+            "balwer": "",
+            "batsman": "Devdutt Padikkal c Patel b Mukesh Kumar 1 ",
             "score": "64/2"
+          },
+          {
+            "innings": "Royal Challengers Bengaluru 1 INN",
+            "fall": "3.5 ov",
+            "balwer": "",
+            "batsman": "Phil Salt run out ",
+            "score": "61/1"
           }
         ]
       },
@@ -579,10 +2024,20 @@
         "Royal Challengers Bengaluru 1 INN": [
           {
             "innings": "Royal Challengers Bengaluru 1 INN",
-            "nr": "12.00",
-            "text": "(w 6, lb 5)",
-            "total_overs": "6.3",
-            "total": "72 ( 6.3 )",
+            "nr": "15.00",
+            "text": "(w 9, lb 5)",
+            "total_overs": "20",
+            "total": "163 ( 20 )",
+            "percent_over": null
+          }
+        ],
+        "Delhi Capitals 2 INN": [
+          {
+            "innings": "Delhi Capitals 2 INN",
+            "nr": "2.00",
+            "text": "(w 2, )",
+            "total_overs": "8.4",
+            "total": "58 ( 8.4 )",
             "percent_over": null
           }
         ]
@@ -591,71 +2046,77 @@
         "home_team": {
           "starting_lineups": [
             {
-              "player": "PD Salt"
+              "player": "Phil Salt"
             },
             {
-              "player": "V Kohli"
+              "player": "Virat Kohli"
             },
             {
-              "player": "D Padikkal"
+              "player": "Devdutt Padikkal"
             },
             {
-              "player": "RM Patidar"
+              "player": "Rajat Patidar"
             },
             {
-              "player": "LS Livingstone"
+              "player": "Liam Livingstone"
             },
             {
-              "player": "JM Sharma"
+              "player": "Jitesh Sharma"
             },
             {
-              "player": "TH David"
+              "player": "Krunal Pandya"
             },
             {
-              "player": "KH Pandya"
+              "player": "Tim David"
             },
             {
-              "player": "B Kumar"
+              "player": "Bhuvneshwar Kumar"
             },
             {
-              "player": "JR Hazlewood"
+              "player": "Josh Hazlewood"
             },
             {
               "player": "Yash Dayal"
+            },
+            {
+              "player": "Suyash Sharma"
             }
           ]
         },
         "away_team": {
           "starting_lineups": [
             {
-              "player": "J Fraser-McGurk"
+              "player": "Faf du Plessis"
             },
             {
-              "player": "F du Plessis"
+              "player": "Jake Fraser-McGurk"
+            },
+            {
+              "player": "Abishek Porel"
             },
             {
               "player": "KL Rahul"
             },
             {
-              "player": "T Stubbs"
+              "player": "Axar Patel"
             },
             {
-              "player": "AR Patel"
+              "player": "Tristan Stubbs"
             },
             {
-              "player": "AR Sharma"
+              "player": "Ashutosh Sharma"
             },
             {
-              "player": "V Nigam"
+              "player": "Vipraj Nigam"
             },
             {
-              "player": "MA Starc"
+              "player": "Mitchell Starc"
             },
             {
               "player": "Kuldeep Yadav"
             },
             {
-              "player": "MM Sharma"
+              "player": "Mohit Sharma"
             },
             {
               "player": "Mukesh Kumar"

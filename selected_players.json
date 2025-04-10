@@ -1,0 +1,68 @@
+{
+  "player1_name": "ABP",
+  "player2_name": "SRK",
+  "player1_team": [
+    {
+      "name": "RM Patidar",
+      "role": "Batsman",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "LS Livingstone",
+      "role": "Batsman",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "J Fraser-McGurk",
+      "role": "Batsman",
+      "team": "Delhi Capitals"
+    },
+    {
+      "name": "MA Starc",
+      "role": "Bowler",
+      "team": "Delhi Capitals"
+    },
+    {
+      "name": "KH Pandya",
+      "role": "Bowler",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "V Nigam",
+      "role": "Bowler",
+      "team": "Delhi Capitals"
+    }
+  ],
+  "player2_team": [
+    {
+      "name": "V Kohli",
+      "role": "Batsman",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "KL Rahul",
+      "role": "Batsman",
+      "team": "Delhi Capitals"
+    },
+    {
+      "name": "F du Plessis",
+      "role": "Batsman",
+      "team": "Delhi Capitals"
+    },
+    {
+      "name": "JR Hazlewood",
+      "role": "Bowler",
+      "team": "Royal Challengers Bengaluru"
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "role": "Bowler",
+      "team": "Delhi Capitals"
+    },
+    {
+      "name": "Yash Dayal",
+      "role": "Bowler",
+      "team": "Royal Challengers Bengaluru"
+    }
+  ]
+}

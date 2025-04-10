@@ -54,5 +54,19 @@
         ],
         "match_desc": "Royal Challengers Bengaluru vs Mumbai Indians",
         "match_date": "2025-04-07"
+    },
+    "17195": {
+        "players": [
+            [
+                "ABP",
+                560
+            ],
+            [
+                "SRK",
+                1470
+            ]
+        ],
+        "match_desc": "Royal Challengers Bengaluru vs Delhi Capitals",
+        "match_date": "2025-04-10"
     }
 }
