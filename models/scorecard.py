@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from typing import Optional, List, Dict
+from rapidfuzz.fuzz import partial_ratio
 
 
 @dataclass
@@ -20,6 +21,9 @@ class PlayerPerformance:
     ER: Optional[str]  # Economy Rate
 
 
+def is_same_player(name1, name2):
+    return partial_ratio(name1.lower(), name2.lower()) > 80
+
 class Scorecard:
     def __init__(self, scorecard: Dict[str, List[PlayerPerformance]]):
         self.scorecard = scorecard  # dict of innings → list of PlayerPerformance
@@ -34,7 +38,7 @@ class Scorecard:
                     #print(f"  ➤ Checking performance: {p.player} - Runs: {p.R}")
                     p_name = p.player.strip().lower()
                     input_name = player_name.strip().lower()
-                    if p_name == input_name or p_name.split()[-1] == input_name.split()[-1] and p.R is not None:
+                    if p_name == input_name or is_same_player(input_name, p_name) and p.R is not None:
                         try:
                             return int(p.R)
                         except ValueError:
@@ -54,7 +58,7 @@ class Scorecard:
                     print(f"  ➤ Checking performance: {p.player} - Wickets: {p.W}")
                     p_name = p.player.strip().lower()
                     input_name = player_name.strip().lower()
-                    if p_name == input_name or p_name.split()[-1] == input_name.split()[-1] and p.W is not None:
+                    if p_name == input_name or is_same_player(input_name, p_name) and p.W is not None:
                         try:
                             return int(p.W)
                         except ValueError:

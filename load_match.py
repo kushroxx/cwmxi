@@ -29,8 +29,8 @@ def fetch_from_api(today):
     return None
 
 def load_or_fetch():
-    today = date.today().isoformat()
-    #today = "2025-04-10"
+    #today = date.today().isoformat()
+    today = "2025-04-11"
 
     # Check if cache exists and is for today's date
     if os.path.exists(CACHE_FILE):
